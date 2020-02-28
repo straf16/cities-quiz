@@ -1,0 +1,9 @@
+.text {
+  margin: 0;
+}
+
+.box {
+  width: 80vw;
+  background-color: #9998A3;
+  border: 1px solid black;
+}
